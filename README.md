@@ -1,3 +1,6 @@
 # Assembly
 Search Perfect Numbers Assembly
-Este código es para buscar números perfectos en Assembler.
+Aquí se podrán encontrar diferentes códigos de Assembler
+
+
+Estos códigos son creados por mí, no hay copia de ningún otro lado.
